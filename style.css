@@ -1,0 +1,44 @@
+.table{
+    margin-left: 230px;
+    margin-top: 46px;
+    color: black;
+    background-color:#4b6b54;
+    line-height: 35px;
+    text-align: center;
+    font-size: 25px;
+  
+}
+.off{
+    text-align: center;
+    color: rgb(37, 12, 179);
+    border: 1px solid black;
+    line-height: 45px;
+   
+}
+ul{
+    font-size: 30px;
+    color: rgb(5, 5, 139);
+}
+
+.eleminator{
+    background-color: rgb(95, 16, 16);
+    line-height: 45px;
+}
+th{
+    font-size: 30px;
+    color:rgb(95, 69, 4);
+    text-decoration: underline;
+}
+a{
+    color: rgb(3, 77, 95);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color: rgb(59, 43, 3);
+
+}
+body{
+    background-color: rgb(95, 95, 7);
+}
